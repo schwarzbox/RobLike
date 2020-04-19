@@ -6,4 +6,4 @@ v0.2
 
 Rob answer which photo he like using pretrained model resnet-34.
 
-Now he thought that Todd Hido make perfect picture.
+Now he thought that Todd Hido made perfect picture.

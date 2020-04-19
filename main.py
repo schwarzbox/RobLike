@@ -7,42 +7,6 @@ import streamlit as st
 
 from support import resize, fade, blur
 
-# heroku login
-# heroku create
-# git remote -v
-
-# exist app
-# heroku git:remote -a mysterious-reef-17564
-
-# plugin
-# heroku plugins:install heroku-repo
-
-# heroku repo:purge_cache -a mysterious-reef-17564
-# empty repo
-# heroku repo:reset -a mysterious-reef-17564
-
-# run
-# heroku ps:scale web=0
-# heroku ps:scale web=1
-# heroku open
-
-# rename app
-# heroku apps:rename roblike
-# remote update
-# git remote rm heroku
-# heroku git:remote -a roblike
-
-# use lfs for large files
-# git lfs install
-# git lfs track "*.pkl"
-# git add .gitattributes
-# git commit "lfs *.pkl"
-# git push origin master
-# check
-# git lfs ls-files
-# if exist
-# git lfs migrate import --include="*.pkl" --everything
-
 
 MIND_XY = (620, 374)
 MIND_SIZE = 550
